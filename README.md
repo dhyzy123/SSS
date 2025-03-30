@@ -1,2 +1,2 @@
 # SSS
-Code about "SSS".
+Code about "SSS". Code will be released soon.
