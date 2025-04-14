@@ -1,2 +1,2 @@
-# SSS: QbE-STD
-Code about "SSS". Code will be released soon.
+# StyU-STD
+Code about "StyU-STD". Code will be released soon.
